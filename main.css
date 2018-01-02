@@ -8,13 +8,18 @@ html {
   
   body {
     margin:50px;
-    font-family: 'Open Sans', 'sans-serif';
+    font-family: "Monospace 821 W01","Courier New","DejaVu Sans Mono",monospace,sans-serif;
     background-color: #f5eaea;
     color: rgb(250, 244, 244);
   }
   
-  h3, p {
-    margin: 0 0 5em 0;
+  h6, p {
+    margin: 0 1 5em 0;
+  }
+
+  a {
+    text-decoration: underline;
+    color: #308abc;
   }
   
   .wrapper {
@@ -42,23 +47,35 @@ html {
       grid-template-columns: 1fr 3fr;
     }
     
-    .header, .footer {
+    /* .nav {
+      border-bottom: 1px solid #000;
+      font-size: 0.57rem;
+      /* text-align: left;
+      text-decoration: blue; */
+      /* grid-column: col 2 / span 3 ; */
+		  /* grid-row: row ; */
+      /* needed for the floated layout */
+      /* clear: both; */
+    /* }  */
+    
+    .header, .footer{
       border-bottom: 2px solid #000;
+      font-size: 2.57rem;
       /* text-align: left;
       text-decoration: blue; */
       grid-column: 1 / -1;
+      column-width: 33%;
       /* needed for the floated layout */
       clear: both;
     }
   
-  }
   
   .wrapper > * {
     background-color: #f5eaea;
     color: rgb(0, 0, 0);
     border-radius: 5px;
-    padding: 20px;
-    font-size: 150%;
+    padding: 12px;
+    /* font-size: 140%; */
     /* needed for the floated layout*/
     margin-bottom: 10px;
   }
