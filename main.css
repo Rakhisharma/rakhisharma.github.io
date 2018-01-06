@@ -57,17 +57,6 @@ html {
       /* needed for the floated layout */
       clear: both;
     }
-
-    .footer {
-      border-bottom: 2px solid #000;
-      font-size: .87rem;
-      text-decoration: blue; 
-      grid-column: 1 / -1;
-      column-width: 33%;
-      /* needed for the floated layout */
-      clear: both;
-    }
-  
   
   .wrapper > * {
     background-color: #f5eaea;
@@ -86,3 +75,4 @@ html {
       margin: 0;
     }
   }
+}
