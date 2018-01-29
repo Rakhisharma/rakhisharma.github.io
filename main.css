@@ -1,5 +1,5 @@
 html {
-  background-color: #eeeeee;
+  background-color: rgb(255,255,255);
 }
 
 *, *:before, *:after {
@@ -9,7 +9,7 @@ html {
   body {
     margin:50px;
     font-family: "Monospace 821 W01","Courier New","DejaVu Sans Mono",monospace,sans-serif;
-    background-color: #f5eaea;
+    background-color: rgb(255,255,255);
     color: rgb(250, 244, 244);
   }
   
@@ -59,7 +59,7 @@ html {
     }
   
   .wrapper > * {
-    background-color: #f5eaea;
+    background-color: rgb(255,255,255);
     color: rgb(0, 0, 0);
     border-radius: 5px;
     padding: 12px;
