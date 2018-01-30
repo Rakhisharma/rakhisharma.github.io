@@ -22,6 +22,12 @@ html {
     text-decoration: underline;
     color: #308abc;
   }
+
+  img {
+    padding: 50px;
+    margin: 20px;
+    border-radius: 50%;
+}
   
   .wrapper {
     max-width: 1040px;
@@ -35,7 +41,7 @@ html {
     /* no grid support? */
     .sidebar {
       float: left;
-      width: 16.1489%;
+      /* width: 16.1489%; */
     }
   
     .content {
