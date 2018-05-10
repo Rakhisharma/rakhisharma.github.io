@@ -23,7 +23,7 @@ html {
     color: #308abc;
   }
 
-  img {
+  #MainImg img {
     padding: 50px;
     margin: 20px;
     border-radius: 50%;
