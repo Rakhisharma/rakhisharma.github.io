@@ -2,7 +2,7 @@ let posts = [
     {
 		"title": "Thoughts",
 		"link": "https://rakhish.wordpress.com/2020/06/14/thoughts/",
-		"publishDate": "14 June 2020",
+		"publishDate": "14 Jun 2020",
 	},
     {
 		"title": "24",
@@ -17,17 +17,17 @@ let posts = [
     {
 		"title": "The Subtle Art of Not giving a F*ck: A Review",
 		"link": "https://rakhish.wordpress.com/2019/03/02/the-subtle-art-of-not-giving-a-fck-a-review/",
-		"publishDate": "02 March 2019",
+		"publishDate": "02 Mar 2019",
 	},
     {
 		"title": "What is Mixed Reality?",
 		"link": "https://rakhish.wordpress.com/2018/08/07/what-is-mixed-reality/",
-		"publishDate": "07 August 2018",
+		"publishDate": "07 Aug 2018",
 	},
     {
 		"title": "Thank you, WomenInTechFund!",
 		"link": "https://rakhish.wordpress.com/2018/07/01/thank-you-womenintechfund/",
-		"publishDate": "01 July 2018",
+		"publishDate": "01 Jul 2018",
 	},
     {
 		"title": "What I am learning, while mentoring a girl",
@@ -82,27 +82,27 @@ let posts = [
     {
 		"title": "Testing in Firefox- Mochitest!",
 		"link": "https://rakhish.wordpress.com/2016/07/28/testing-in-firefox-mochitest/",
-		"publishDate": "28 July 2016",
+		"publishDate": "28 Jul 2016",
 	},
     {
 		"title": "Major improvement in Firefox",
 		"link": "https://rakhish.wordpress.com/2016/07/12/major-improvement-in-firefox/",
-		"publishDate": "12 July 2016",
+		"publishDate": "12 Jul 2016",
 	},
     {
 		"title": "Open source, Mozilla & Outreachy",
 		"link": "https://rakhish.wordpress.com/2016/07/11/374/",
-		"publishDate": "11 July 2016",
+		"publishDate": "11 Jul 2016",
 	},
     {
 		"title": "Hg push-to-try",
 		"link": "https://rakhish.wordpress.com/2016/06/27/hg-push-to-try/",
-		"publishDate": "27 June 2016",
+		"publishDate": "27 Jun 2016",
 	},
     {
 		"title": "Bookmark in toolbar.",
 		"link": "https://rakhish.wordpress.com/2016/06/25/bookmark-in-toolbar/",
-		"publishDate": "25 June 2016",
+		"publishDate": "25 Jun 2016",
 	},
     {
 		"title": "Firefox for Desktop.",
