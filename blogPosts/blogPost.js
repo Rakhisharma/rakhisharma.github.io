@@ -1,33 +1,68 @@
 let posts = [
     {
-		"title": "Testing in Firefox- Mochitest!",
-		"link": "https://rakhish.wordpress.com/2016/07/12/major-improvement-in-firefox/",
-		"publishDate": "12 July 2020",
+		"title": "Thank you, WomenInTechFund!",
+		"link": "https://rakhish.wordpress.com/2018/07/01/thank-you-womenintechfund/",
+		"publishDate": "01 July 2018",
 	},
     {
-		"title": "Testing in Firefox- Mochitest!",
-		"link": "https://rakhish.wordpress.com/2016/07/12/major-improvement-in-firefox/",
-		"publishDate": "12 July 2020",
+		"title": "What I am learning, while mentoring a girl",
+		"link": "https://rakhish.wordpress.com/2018/05/07/what-i-am-learning-while-mentoring-a-girl/",
+		"publishDate": "07 May 2018",
 	},
     {
-		"title": "Testing in Firefox- Mochitest!",
-		"link": "https://rakhish.wordpress.com/2016/07/12/major-improvement-in-firefox/",
-		"publishDate": "12 July 2020",
+		"title": "Design Sprint(Mozilla+StanfordHCI)",
+		"link": "https://medium.com/@atbrakhi/design-sprint-mozilla-stanfordhci-4c030f8be9aa",
+		"publishDate": "23 Nov 2017",
 	},
     {
-		"title": "Testing in Firefox- Mochitest!",
+		"title": "6 months in Tech world!",
+		"link": "https://medium.com/@atbrakhi/6-months-in-tech-world-27c54e7179c2",
+		"publishDate": "22 Nov 2017",
+	},
+    {
+		"title": "Moving to Medium.",
+		"link": "https://rakhish.wordpress.com/2017/11/22/moving-to-medium/",
+		"publishDate": "22 Nov 2017",
+	},
+    {
+		"title": "Meet my team- RGSoC",
+		"link": "https://rakhish.wordpress.com/2017/08/06/meet-my-team-rgsoc/",
+		"publishDate": "06 Aug 2017",
+	},
+    {
+		"title": "Understanding Hoisting.",
+		"link": "https://rakhish.wordpress.com/2017/08/04/understanding-hoisting/",
+		"publishDate": "04 Aug 2017",
+	},
+    {
+		"title": "Story of JS Closures",
 		"link": "https://rakhish.wordpress.com/2016/07/12/major-improvement-in-firefox/",
-		"publishDate": "12 July 2020",
+		"publishDate": "08 Feb 2017",
+	},
+    {
+		"title": "Outreachy Proposal for Mozilla.",
+		"link": "https://rakhish.wordpress.com/2016/09/26/outreachy-proposal-for-mozilla/",
+		"publishDate": "26 Sep 2016",
+	},
+    {
+		"title": "Mozilla Intern project presentation!",
+		"link": "https://rakhish.wordpress.com/2016/08/26/mozilla-intern-project-presentation/",
+		"publishDate": "26 Aug 2016",
+	},
+    {
+		"title": "Firefox Reader View(Revisiting :Visited )",
+		"link": "https://rakhish.wordpress.com/2016/08/13/firefox-reader-viewrevisiting-visited/",
+		"publishDate": "13 Aug 2016",
 	},
     {
 		"title": "Testing in Firefox- Mochitest!",
 		"link": "https://rakhish.wordpress.com/2016/07/28/testing-in-firefox-mochitest/",
-		"publishDate": "28 July 2020",
+		"publishDate": "28 July 2016",
 	},
     {
 		"title": "Major improvement in Firefox",
 		"link": "https://rakhish.wordpress.com/2016/07/12/major-improvement-in-firefox/",
-		"publishDate": "12 July 2020",
+		"publishDate": "12 July 2016",
 	},
     {
 		"title": "Open source, Mozilla & Outreachy",
@@ -37,12 +72,12 @@ let posts = [
     {
 		"title": "Hg push-to-try",
 		"link": "https://rakhish.wordpress.com/2016/06/27/hg-push-to-try/",
-		"publishDate": "27 June 2020",
+		"publishDate": "27 June 2016",
 	},
     {
 		"title": "Bookmark in toolbar.",
 		"link": "https://rakhish.wordpress.com/2016/06/25/bookmark-in-toolbar/",
-		"publishDate": "25 June 2020",
+		"publishDate": "25 June 2016",
 	},
     {
 		"title": "Firefox for Desktop.",
@@ -80,7 +115,7 @@ window.onload = function() {
 		posts[i].publishDate;
 		posts[i].link;
 
-		posts_html += '<div>' + posts[i].publishDate +' :  <a href="' + posts[i].link + ' "target="_blank">' + posts[i].title + '</a></div><br>';
+		posts_html += '<div>' + posts[i].publishDate +':  <a href="' + posts[i].link + ' "target="_blank">' + posts[i].title + '</a></div><br>';
 	}
 
 	blog_posts.innerHTML = posts_html;
