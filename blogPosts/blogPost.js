@@ -1,5 +1,20 @@
 let posts = [
     {
+		"title": "Book Review: Lean In by Sheryl Sandberg",
+		"link": "https://rakhish.wordpress.com/2019/05/21/book-review-lean-in-by-sheryl-sandberg/",
+		"publishDate": "21 May 2019",
+	},
+    {
+		"title": "The Subtle Art of Not giving a F*ck: A Review",
+		"link": "https://rakhish.wordpress.com/2019/03/02/the-subtle-art-of-not-giving-a-fck-a-review/",
+		"publishDate": "02 March 2019",
+	},
+    {
+		"title": "What is Mixed Reality?",
+		"link": "https://rakhish.wordpress.com/2018/08/07/what-is-mixed-reality/",
+		"publishDate": "07 August 2018",
+	},
+    {
 		"title": "Thank you, WomenInTechFund!",
 		"link": "https://rakhish.wordpress.com/2018/07/01/thank-you-womenintechfund/",
 		"publishDate": "01 July 2018",
