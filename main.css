@@ -45,10 +45,8 @@ html {
   
   @media screen and (min-width: 500px) {
   
-    /* no grid support? */
     .sidebar {
       float: left;
-      /* width: 16.1489%; */
     }
   
     .content {
@@ -76,8 +74,6 @@ html {
     color: rgb(0, 0, 0);
     border-radius: 5px;
     padding: 12px;
-    /* font-size: 140%; */
-    /* needed for the floated layout*/
     margin-bottom: 10px;
   }
   

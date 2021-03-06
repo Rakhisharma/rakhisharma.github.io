@@ -1,5 +1,15 @@
 let posts = [
     {
+		"title": "Thoughts",
+		"link": "https://rakhish.wordpress.com/2020/06/14/thoughts/",
+		"publishDate": "14 June 2020",
+	},
+    {
+		"title": "24",
+		"link": "https://rakhish.wordpress.com/2019/08/18/24/",
+		"publishDate": "18 Aug 2019",
+	},
+    {
 		"title": "Book Review: Lean In by Sheryl Sandberg",
 		"link": "https://rakhish.wordpress.com/2019/05/21/book-review-lean-in-by-sheryl-sandberg/",
 		"publishDate": "21 May 2019",
