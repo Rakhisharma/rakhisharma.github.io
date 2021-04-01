@@ -157,4 +157,3 @@ window.onload = function() {
 
 	blog_posts.innerHTML = posts_html;
 }
-
