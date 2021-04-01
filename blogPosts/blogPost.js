@@ -3,7 +3,7 @@ let posts = [
         title: 'JavaScript Array.some() or Array.every()',
         link:
             'https://dev.to/rakhisharma/javascript-array-some-or-array-every-4la1',
-        publishDate: '01 April 2021'
+        publishDate: '01 Apr 2021'
     },
     {
         title: 'Book Review: Lean In by Sheryl Sandberg',
