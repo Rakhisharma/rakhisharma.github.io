@@ -141,6 +141,7 @@ let posts = [
         publishDate: '12 Mar 2016'
     }
 ];
+
 posts_html = '';
 
 window.onload = function() {
