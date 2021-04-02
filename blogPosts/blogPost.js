@@ -1,5 +1,11 @@
 let posts = [
     {
+        title: 'Creating a Toggle button in React ',
+        link:
+            'https://dev.to/rakhisharma/creating-a-toggle-button-in-react-i8o',
+        publishDate: '02 Apr 2021'
+    },
+    {
         title: 'JavaScript Array.some() or Array.every()',
         link:
             'https://dev.to/rakhisharma/javascript-array-some-or-array-every-4la1',
